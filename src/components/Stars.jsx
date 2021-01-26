@@ -1,6 +1,6 @@
 import React from 'react';
 import Star from '../statics/star.png'
-import StarAlt from '../statics/star_alt.png'
+
 
 function Stars(props) {
 
