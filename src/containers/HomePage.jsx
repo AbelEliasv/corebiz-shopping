@@ -19,9 +19,7 @@ function HomePage() {
             <NavTop shoppingCart={shoppingCart}></NavTop>
             <Slider></Slider>
             <BestSellers onProductShoppingCart={handleAddProductShoppingCart}></BestSellers>
-            {/**
-             * Agregar Footer
-             */}
+            
         </div>
 
 
